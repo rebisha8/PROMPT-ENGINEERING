@@ -198,9 +198,6 @@ Generative AI is one of the most transformative advancements in modern computing
 10. Bommasani, R. et al. (2021). *On the Opportunities and Risks of Foundation Models*. Stanford University.
 
 ---
-Got it ✅ — I’ll clearly separate **Output** and **Result** for you.
-
----
 
 # **Output**
 
